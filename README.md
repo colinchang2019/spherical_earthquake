@@ -17,4 +17,4 @@ This repository contains a PyTorch implementation of methods for earthquake pred
 
 
 ## Note:
-The file is limited within 25Mb by github. If needed, one can contact the author for result (model file in pth) and train and test data.The trainedn model in pth format file can be obtained: https://pan.baidu.com/s/1eOyaOikQLBcSVAQ0jsu9ig with password 1234.
+The file is limited within 25Mb by github. If needed, one can contact the author for result (model file in pth) and train and test data.The trainedn model in pth format file can be obtained:https://pan.baidu.com/s/1rYLYs4i0pgt5rDpqhi5HDg with password 1234.
