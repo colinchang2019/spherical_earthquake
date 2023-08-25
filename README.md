@@ -8,6 +8,8 @@ This repository contains a PyTorch implementation of methods for earthquake pred
 
 2. lie_learn library
 
+3. S2CNN
+
 ## data and result
 1. in data file, one can test the performance using the testdate by validate.py
 
