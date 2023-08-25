@@ -23,7 +23,7 @@ import os
 from config import config
 from utils.standardrange import *
 
-from model import EncoderForecaster
+from model import SO3EncoderForecaster as EncoderForecaster
 from utils.earlyStopping import EarlyStopping
 from utils.loss import WeightedMseMae
 from utils.dataset import MultiDataset, SingleDataset
