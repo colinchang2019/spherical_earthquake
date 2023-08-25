@@ -1,8 +1,6 @@
 # -*- encoding: utf-8 -*-
 """
-@ Author  ：Chesley (chelsey@zju.edu.cn)
-@ File    : modelConv.py
-@ Time    ：2022/9/6 15:10
+
 """
 
 from __future__ import absolute_import
