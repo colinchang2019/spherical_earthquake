@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 """
-@ Author  ：Chesley (chelsey@zju.edu.cn)
+@ Author  ：
 @ File    : 
 @ Time    ：
 """
