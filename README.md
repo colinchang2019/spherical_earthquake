@@ -1,6 +1,6 @@
 
 # Earthquakes prediction
-This repository contains a PyTorch implementation of methods for earthquake prediction at a global scale.
+This repository contains a PyTorch implementation of methods for earthquake prediction at a global scale using spherical CNNs.
 
 ## Requirements:
 
