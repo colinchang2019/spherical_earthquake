@@ -2,9 +2,10 @@
 """
 @ Author  ：
 @ File    : config.py
-@ Time    ：2021/5/7 20:36
+@ Time    ：
 """
-from model import ConvLstm
+from model import SO3ConvLstm
+from modelConv import ConvLstm
 from collections import OrderedDict
 import torch
 import numpy as np
